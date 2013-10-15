@@ -14,5 +14,5 @@ Description
 
 4. iter2G_2Ind.m : to run the customized MCMC 
 
-5. The paper associated with the codes is located [here](http://www.degruyter.com/view/j/sagmb.2013.12.issue-3/sagmb-2012-0001/sagmb-2012-0001.xml;jsessionid=AA0CD3213FD5BF2877832A20CA9F80EB)
+5. The paper associated with the code is located [here](http://www.degruyter.com/view/j/sagmb.2013.12.issue-3/sagmb-2012-0001/sagmb-2012-0001.xml;jsessionid=AA0CD3213FD5BF2877832A20CA9F80EB)
 
